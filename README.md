@@ -31,8 +31,8 @@
 
 
  ### Node.js
- MySQL NPM Package - https://www.npmjs.com/package/twitter
- Inquirer NPM Package - https://www.npmjs.com/package/spotify
+ MySQL NPM Package - https://www.npmjs.com/package/mysql
+ Inquirer NPM Package - https://www.npmjs.com/package/inquirer
  
 
 
